@@ -1,0 +1,9 @@
+com.BamszGelitirici.WNDGROADS.launcher-pngs-0 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.BamszGelitirici.WNDGROADS.launcher-resValues-1 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.BamszGelitirici.WNDGROADS.launcher-rs-2 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.BamszGelitirici.WNDGROADS.launcher-mergeReleaseResources-3 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.BamszGelitirici.WNDGROADS.launcher-mergeReleaseResources-4 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.BamszGelitirici.WNDGROADS.launcher-merged_res-5 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.BamszGelitirici.WNDGROADS.launcher-main-6 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.BamszGelitirici.WNDGROADS.launcher-release-7 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.BamszGelitirici.WNDGROADS.launcher-packaged_res-8 C:\Users\eren1\winding roads\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

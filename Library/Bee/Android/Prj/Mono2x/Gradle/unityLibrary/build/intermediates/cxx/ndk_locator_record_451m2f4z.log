@@ -1,0 +1,100 @@
+[
+  {
+    "level_": 0,
+    "message_": "android.ndkVersion from module build.gradle is [not set]",
+    "file_": "",
+    "tag_": "",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1263827445
+  },
+  {
+    "level_": 0,
+    "message_": "android.ndkPath from module build.gradle is C:/Program Files/Unity/Hub/Editor/2023.1.0b20/Editor/Data/PlaybackEngines/AndroidPlayer/NDK",
+    "file_": "",
+    "tag_": "",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 444810124
+  },
+  {
+    "level_": 0,
+    "message_": "ndk.dir in local.properties is not set",
+    "file_": "",
+    "tag_": "",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1534490555
+  },
+  {
+    "level_": 0,
+    "message_": "Not considering ANDROID_NDK_HOME because support was removed after deprecation period.",
+    "file_": "",
+    "tag_": "",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 328323515
+  },
+  {
+    "level_": 0,
+    "message_": "sdkFolder is C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.0b20\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK",
+    "file_": "",
+    "tag_": "",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1973363231
+  },
+  {
+    "level_": 0,
+    "message_": "NDK side-by-side folder from sdkFolder C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.0b20\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\ndk does not exist",
+    "file_": "",
+    "tag_": "",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1685479067
+  },
+  {
+    "level_": 0,
+    "message_": "Because no explicit NDK was requested, the default version [23.1.7779620] for this Android Gradle Plugin will be used",
+    "file_": "",
+    "tag_": "",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1261945804
+  }
+]

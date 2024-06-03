@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\eren1\winding roads\.utmp\RelWithDebInfo\5195q213\armeabi-v7a'
+ninja: no work to do.

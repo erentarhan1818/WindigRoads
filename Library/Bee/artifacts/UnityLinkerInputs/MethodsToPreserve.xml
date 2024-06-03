@@ -1,0 +1,20 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="diğersahne">
+			<method name="DigerSahne"/>
+		</type>
+		<type fullname="kolay">
+			<method name="kolayortazor"/>
+		</type>
+		<type fullname="orta">
+			<method name="ortaseviye"/>
+		</type>
+		<type fullname="RESTART">
+			<method name="Restart"/>
+			<method name="Restart"/>
+		</type>
+		<type fullname="zor">
+			<method name="zorseviye"/>
+		</type>
+	</assembly>
+</linker>
